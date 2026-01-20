@@ -21,7 +21,6 @@ Exploratory data analysis of Aadhaar Enrollment, Demographic, and Biometric data
 ### 2️⃣ Demographic.ipynb
 - Analyzes Aadhaar demographic data
 - Processes attributes such as:
-  - Gender
   - Age groups
   - Regional distribution
 - Handles missing and malformed data
@@ -34,7 +33,7 @@ Exploratory data analysis of Aadhaar Enrollment, Demographic, and Biometric data
 - Works with Aadhaar biometric-related data
 - Performs data cleaning and preprocessing
 - Explores biometric update and capture trends
-- Prepares data for further analysis or visualization
+- Prepares data for further analysis and visualization
 
 ---
 
