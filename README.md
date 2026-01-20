@@ -58,12 +58,12 @@ The datasets used in this project are Aadhaar API CSV files (e.g.):
 
 🎯 Purpose
 
-- This project is intended for:
+ This project is intended for :
 
-- Data cleaning and preprocessing practice
+  Data cleaning and preprocessing practice
 
- - Exploratory analysis of government open data
+  Exploratory analysis of government open data
 
- - Understanding large-scale public datasets
+  Understanding large-scale public datasets
 
- - Learning pandas groupby and aggregation techniques
+  Learning pandas groupby and aggregation techniques
