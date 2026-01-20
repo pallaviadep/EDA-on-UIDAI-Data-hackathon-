@@ -51,32 +51,10 @@ Exploratory data analysis of Aadhaar Enrollment, Demographic, and Biometric data
 ## 📁 Data Source
 
 The datasets used in this project are Aadhaar API CSV files (e.g.):
-- `api_data_aadhar_enrolment_*.csv`
+- `api_data_aadhar_enrollment_*.csv`
 - `api_data_aadhar_demographic_*.csv`
 - `api_data_aadhar_biometric_*.csv`
 ---
-
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/aadhaar-data-analysis.git
-
-
-2. Install dependencies:
-   '''bash
-   
-   pip install pandas numpy matplotlib seaborn
-
-
-3. Open Jupyter Notebook:
-   '''bash
-   
-   jupyter notebook
-   
-
-4. Run the notebooks in order as needed.
-
 
 🎯 Purpose
 
